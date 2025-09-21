@@ -12,7 +12,7 @@ const introdata = {
         third: "I solve technical problems",
     },
     description: "Enthusiastic and highly motivated Adventure Games Facilitator and developer with experience in fostering teamwork and solving technical challenges.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://media.licdn.com/dms/image/v2/D4D03AQHedF7fIGX2UQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731601305466?e=2147483647&v=beta&t=htcSmKYTDKXo9FyWxr-zFtDqoaf5Y7A7vkX_T0IZdF0",
 };
 
 const dataabout = {
