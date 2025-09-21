@@ -2,6 +2,7 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://nithishnagaraj.github.io/Nithish-Impactfolio",
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
@@ -15,6 +16,9 @@
         "react-transition-group": "^4.4.2",
         "typewriter-effect": "^2.18.2",
         "web-vitals": "^3.1.1"
+    },
+    "devDependencies": {
+        "gh-pages": "^6.1.1"
     },
     "scripts": {
         "start": "react-scripts start",
